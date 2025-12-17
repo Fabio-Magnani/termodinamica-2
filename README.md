@@ -34,4 +34,11 @@ Exergia, ciclos de potência e refrigeração, relações termodinâmicas, mistu
 
 - [2025-2](https://colab.research.google.com/github/Prof-Magnani/termodinamica-2/blob/main/gabaritos/Termo_Aplicada_P2_10122025-Sem2.ipynb) 
 
+
+#### Prova Final
+
+- [2025-2](https://colab.research.google.com/github/Prof-Magnani/termodinamica-2/blob/main/gabaritos/Termo_Aplicada_PF_17122025-Sem2.ipynb)
+
+
+
  
